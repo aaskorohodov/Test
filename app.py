@@ -1,1 +1,1 @@
-print('Hello World, from BASH vim!')
+print('Hello World, from BASH vim! And some more text.')
